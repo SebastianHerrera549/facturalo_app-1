@@ -1,6 +1,4 @@
-<img src="icon_app.jpg" width="120">
-
-# FACTURALOPERU APP
+# FACTURA PERU APP
 
 ### Soporte
 
